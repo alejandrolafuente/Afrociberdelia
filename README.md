@@ -1,3 +1,2 @@
 # Afrociberdelia
- Mais um repositoria criado apenas para  revisão
- Primeira linha editada no vs code
+Material do **Curso de git e Github**, disponivel no canal do *youtube*
